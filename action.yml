@@ -1,5 +1,9 @@
-name: 'Docker Action Recipe'
+name: 'Docker Action Recipe troc'
 description: 'Greet someone'
+branding:
+  icon: bell
+  color: purple
+author: troc
 inputs:
   who-to-greet:
     description: 'Who to greet'
